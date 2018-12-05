@@ -9,7 +9,7 @@ I find you:
 
 And I would love to go out with you sometime and get to know you, if that’s something that you’re interested in as well.
 
-We could for coffee, or grab a bite somewhere.
+We could go for coffee, or grab a bite somewhere.
 
 And I could tell you some funny/amazing things that cannot go on record ever and I would love to hear what you have to say. 
 
