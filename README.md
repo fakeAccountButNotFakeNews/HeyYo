@@ -13,16 +13,14 @@ We could for coffee, or grab a bite somewhere.
 
 And I could tell you some funny/amazing things that cannot go on record ever and I would love to hear what you have to say. 
 
-From what's your favorite color and why, to why you think Kamala Harris is the best bet for the Democrats in 2020. 
-
-From something **trivial** to something that means **everything** to you; and anything and everything in between. I would **_love_** to hear it all! 
+From what's your _favorite color_ and why, to why you think _Kamala Harris_ is the best bet for the _Democrats in 2020_. From something **trivial** to something that means **everything** to you; and anything and everything in between. I would **_love_** to hear it all! 
 
 I promise this will be **_fun!_**
 
 ### But, before you answer that, I also need to tell you a bunch of things.
 
 + I am your TA, which puts this in an ethical gray zone. I would appreciate if you don’t tell anyone about this _**for now?**_
-+ I have **_never_** graded your *unfairly*. Whatever scores you may have received from me, are purely on **merit**. I’ve never graded you easy in a patronizing manner, or I’ve never graded you harshly. 
++ I have **_never_** graded you **_unfairly_**. Whatever scores you may have received from me, are purely on **merit**. I’ve never graded you easy in a patronizing manner, or I’ve never graded you harshly. 
 + I’ve been as **_fair_** as possible in my attitude towards you in class and/or slack and haven’t tried to do you undue favors or haven’t tried to give you a cold shoulder because of this.
 + Your final project is yet to be graded, but I **_will not_** be grading it in the interest of maintaining fairness. 
 
@@ -38,3 +36,5 @@ Irrespective of what happens next, I promise the next time I run into you (_at a
 And now that my spiel is over, let me just sum it:
 
 # U cute. U smart. U funny. U amaze. I like u. U wanna go for coffee?
+
+_(Also, take a look at the commits. Promise you won't be disappointed)_
